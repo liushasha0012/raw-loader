@@ -1,0 +1,23 @@
+{
+  "name": "raw-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liushasha0012/raw-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liushasha0012/raw-loader/issues"
+  },
+  "homepage": "https://github.com/liushasha0012/raw-loader#readme",
+  "dependencies": {
+    "loader-runner": "^4.2.0"
+  }
+}
